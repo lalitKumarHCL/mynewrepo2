@@ -1,0 +1,7 @@
+-n # Sample ucv.yml content
+version: 1.0
+name: My UCV
+author: John Doe
+description: |
+  This is a sample UCV file.
+  It contains some YAML content.
